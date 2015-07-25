@@ -1,0 +1,20 @@
+|First|Last|Company|Title|Email|Phone|
+|Pete|Johnston|WPP|Chief Technology & Security Officer|pjohnston@wpp.com|212-632-2286|
+|Dan|Reynolds|Omnicom Media Group|VP, Chief of Security & Information Architecture Worldwide|dan.reynolds@omnicommediagroup.com|212-590-7070|
+|Greg|Holladay|TBWA Worldwide |IT Director/North America|greg.holladay@tbwachiat.com|310-305-5400|
+|Paul|Scott |TBWA WW London|Chief Security Officer|paul.scott@tbwa.com||
+|Erik|Hart|Leo Burnett|Director IT & Data Security|erik.hart@arcww.com||
+|Nancy|Cardea|Leo Burnett|Head of Compliance|nancy.cardea@leoburnett.com||
+|Christa|Domroes|IPG|Sr Manager Info Security|Christa.Domroes@interpublic.com|212-951-5257|
+|Tom|Sivo|IPG|Chief Technology Officer|tom.sivo@interpublic.com|212-951-2105|
+|Doug|Pierce|Momentum|Dir of Information & Technology|doug.pierce@momentumww.com||
+|Tonny|Wong|The Hacker Group- Seattle|Chief Technology Officer|twong@hackergroup.com|206-805-1590|
+|James|Duffy|360I/Dentsu|VP Corp Info Technology|james.duffy@dentsunetwork.com|212-991-4444|
+|George|Gundry|Havas|Senior Security Specialist|george.gundry@havasww.com|(212)886-4270|
+|Jeff|Marshall|Havas|CIO|jeff.marshall@havasww.com||
+|Joe|Cooper|Havas|Director, IT Security|joe.cooper@havasww.com|(212)886-4270|
+|BG|Naran|MDC Partners|VP Deputy CIO|bnaran@mdc-partners.com|646-412-6872|
+|Laura |Cruz|MDC Partners|Global CIO| lcruz@mdc-partners.com |646-651-1384|
+|Adam|Grohs|SapientNitro|VP, Marketing/Commerce Convergence |agrohs@sapient.com|646-244-4501|
+|Sheldon|Monteiro|SapientNitro|CTO|sheldon@sapientnitro.com||
+|John|Wilder|Eric Mower associates|IT Partner|jwilder@mower.com|315-413-4245|
